@@ -1,5 +1,5 @@
 # Classifying-silhouettes-of-vehicles
-# Unsupervised Learning (PCA) on Vehicle dataset
+
 # Problem statement
 
 The objective is to classify a given silhouette as one of three types of vehicle, using a set of features extracted from 
